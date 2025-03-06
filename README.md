@@ -2,6 +2,8 @@
 
 A **Java-based** polynomial calculator that allows users to input two polynomials, perform selected operations (such as addition, subtraction, multiplication, or division) and see the results instantly. The application is designed with an intuitive **GUI interface** for ease of use and the functionality is thoroughly tested using **JUnit**.
 
+![polinom](polinom.png)
+
 ---
 
 ##  **Features**:
